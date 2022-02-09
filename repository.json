@@ -1,6 +1,6 @@
 
 {
     "name": "Nextcloud Home Assistant add-on",
-    "url": "https://github.com/enricodeleo/hassio-addon-nextcloud",
-    "maintainer": "Enrico Deleo <hello@enricodeleo.com>"
+    "url": "https://github.com/vondraussen/hassio-addon-nextcloud",
+    "maintainer": "vondraussen <vondraussen@users.noreply.github.com>"
 }
